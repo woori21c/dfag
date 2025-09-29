@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This is the official PyTorch implementation of the paper: **"Boosting the Performance of Image Restoration Models through Training with Deep-Feature Auxiliary Guidance"**.  
-Authors: Cheolhun Jang, Daehyun JI, and Nam Ik Cho 
+Authors: Cheolhun Jang, Daehyun JI, and Nam Ik Cho  
 Accepted at IEEE Access
 
 > **🚧 Code Coming Soon 🚧**
